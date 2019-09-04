@@ -1,3 +1,9 @@
+Some lessons I did while learning some java.
+Pretty much everything here is just following along with the subject matter found with
+https://www.w3schools.com/
+Not the best.. but it is free and work well enough.
+
+
 Installing emacs setup for java
 1. Install eclipse stuff
    - curl http://ftp.jaist.ac.jp/pub/eclipse/technology/epp/downloads/release/2019-03/R/eclipse-java-2019-03-R-linux-gtk-x86_64.tar.gz -O
